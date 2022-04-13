@@ -40,9 +40,9 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaszoleszko&show_icons=true&locale=en&layout=compact" alt="tomaszoleszko" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomaszoleszko&show_icons=true&locale=en" alt="tomaszoleszko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaszoleszko&" alt="tomaszoleszko" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tomaszoleszko&show_icons=true&locale=en&theme=dark" alt="tomaszoleszko" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaszoleszko&theme=dark" alt="tomaszoleszko" />
+</p>
+<p> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaszoleszko&show_icons=true&locale=en&layout=compact&theme=dark" alt="tomaszoleszko" /></p>
