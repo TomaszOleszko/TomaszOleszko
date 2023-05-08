@@ -1,4 +1,3 @@
-![Metrics](./github-metrics.svg)
 ### Witaj 🧐
 <img src="https://github.com/TomaszOleszko/TomaszOleszko/blob/066ed405b723ad3018f9268d83a3fb7fc74c3d4f/symulacja.gif" width="45%"></img><img src="https://github.com/TomaszOleszko/TomaszOleszko/blob/066ed405b723ad3018f9268d83a3fb7fc74c3d4f/symulacja.gif" width="45%"></img><img src="https://github.com/TomaszOleszko/TomaszOleszko/blob/066ed405b723ad3018f9268d83a3fb7fc74c3d4f/symulacja.gif" width="45%"></img><img src="https://github.com/TomaszOleszko/TomaszOleszko/blob/066ed405b723ad3018f9268d83a3fb7fc74c3d4f/symulacja.gif" width="45%"></img><img src="https://github.com/TomaszOleszko/TomaszOleszko/blob/066ed405b723ad3018f9268d83a3fb7fc74c3d4f/symulacja.gif" width="45%"></img><img src="https://github.com/TomaszOleszko/TomaszOleszko/blob/066ed405b723ad3018f9268d83a3fb7fc74c3d4f/symulacja.gif" width="45%"></img>
 
